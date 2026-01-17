@@ -1,0 +1,24 @@
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+
+This project incorporates components from the projects listed below. The original copyright notices and the licenses under which Degensoft Ltd received such components are set forth below.
+
+================================================================================
+1. @1inch/aqua
+   Source: https://github.com/1inch/aqua
+   License: LicenseRef-Degensoft-Aqua-Source-1.1
+   See: LICENSES/Aqua-Source-1.1.txt
+================================================================================
+
+================================================================================
+2. @1inch/solidity-utils
+   Source: https://github.com/1inch/solidity-utils
+   License: MIT
+   See: LICENSES/MIT-1inch.txt
+================================================================================
+
+================================================================================
+3. @openzeppelin/contracts
+   Source: https://github.com/OpenZeppelin/openzeppelin-contracts
+   License: MIT
+   See: LICENSES/MIT-OpenZeppelin.txt
+================================================================================
